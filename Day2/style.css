@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.resume {
+    width: 800px;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.section-title {
+    border-bottom: 1px solid black;
+}
+
+.skills span {
+    margin-right: 10px;
+}
+
+.entry-head {
+    display: flex;
+    justify-content: space-between;
+}
